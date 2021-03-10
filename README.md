@@ -1,0 +1,1 @@
+This project is made by me Doğa Sarp Sezer and an artist named Tuğkan Uluşal. The code is written by me.
