@@ -12,7 +12,7 @@ public class SpaceBar : MonoBehaviour
     void Start()
     {
         StartCoroutine(timer());
-        //rb2d.AddForce(new Vector2 (rb2d.transform.position.x + speed, rb2d.transform.position.y));
+
         timer();
     }
 

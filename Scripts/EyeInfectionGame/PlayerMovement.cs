@@ -13,7 +13,7 @@ public class PlayerMovement : MonoBehaviour
     Vector2 limit;
     public Text comfortTxt;
     int loss = 0;
-    //Tuğkan
+ 
      void Start()
     {
         limit = rb2d.transform.position;

@@ -27,7 +27,7 @@ public class Comfort : MonoBehaviour
         }
         else if (comfort <= 0)
         {
-            comfortText.text = "Dog is to uncomfortable";
+            comfortText.text = "Dog is too uncomfortable";
         }
     }
 

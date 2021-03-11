@@ -12,7 +12,8 @@ public class Attachment : MonoBehaviour
         {
             gameObject.transform.parent = collision.gameObject.transform;
             open.isTrigger = true;
-            Destroy(rb2d);       }    
+            Destroy(rb2d);       
+        }    
     }
 
     public BoxCollider2D open;
